@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rkdgus0810&show_icons=true&locale=en" alt="rkdgus0810" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rkdgus0810&" alt="rkdgus0810" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rkdgus0810&" alt="rkdgus0810" /></p>
 
 <!--
 **rkdgus0810/rkdgus0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
