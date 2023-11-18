@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="left">Hi 👋, I'm Kim Kanghyun</h1>
 <h3 align="left">A student who wants to be a backend developer</h3>
 
