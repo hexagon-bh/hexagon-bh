@@ -7,10 +7,11 @@
 
 - 🌱 I’m currently learning **Web Dev.(Js,Node.js)**
 
-- 👯 I collaborated with Geekble. <p style="color: rgb(101, 224, 183)">[Glaisser](https://github.com/rkdgus0810/2023_Geekble_Project-Glaisser)</p>
+- 👯 I collaborated with Geekble. [Glaisser](https://github.com/rkdgus0810/2023_Geekble_Project-Glaisser)</p>
 
 <h3 align="left">Making-of Work:</h3>
 <ul>
+  <li>2023 Geekble Project</li>
   <li>LG-CNS AI Genius Academy: AI-Pads</li>
   <li>KCF-2023: Phami AI-Speech recognition service</li>
 </ul>
