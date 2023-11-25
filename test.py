@@ -1,28 +1,36 @@
 import threading
 
-shared_array = [0] * 5
-locks = [threading.Lock() for _ in range(5)]
+# 공유 배열
+shared_array = [[0,0], [0,0], [0,0], [0,0]]
 
-def modify_array(index, thread_id):
+# 락 리스트 생성
+locks = [threading.Lock() for _ in shared_array]
+
+def increment_element(index):
     global shared_array
-
-    with locks[index]:
-        for i in range(5):
-            shared_array[index] += 1
-            print(f"Thread {thread_id}: Element {index} is {shared_array[index]}      {shared_array}")
+    for _ in range(10):
+        # 락을 획득
+        locks[index].acquire()
+        try:
+            shared_array[index][0] += 1
+            shared_array[index][1] += 1
+        finally:
+            # 락을 해제
+            locks[index].release()
 
 # 스레드 생성
-threads = [threading.Thread(target=modify_array, args=(i, i+1)) for i in range(5)]
+threads = []
+for i in range(1):
+    thread = threading.Thread(target=increment_element, args=(i,))
+    threads.append(thread)
 
 # 스레드 시작
 for thread in threads:
     thread.start()
 
-# 메인 스레드는 여기서 계속 실행됨
-
-# 스레드가 종료될 때까지 대기
+# 스레드 종료 대기
 for thread in threads:
     thread.join()
 
-# 이 부분은 스레드가 종료된 후에 실행됨
-print("Final shared_array:", shared_array)
+# 공유 배열 출력
+print("Final shared array values:", shared_array)
