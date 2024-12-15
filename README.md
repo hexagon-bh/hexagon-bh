@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Kanghyun Kim - Mist 30103</h1>
-<h3 align="left">A student who wants to be a backend developer</h3>
+<h1 align="left">Welome 👋, BINARY HIVE</h1>
+<h3 align="left">Writing Code, One Hex at a Time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkdgus0810&label=Profile%20views&color=0e75b6&style=flat" alt="rkdgus0810" /> </p>
-<a href="www.rkdgus06.com">🔗rkdgus06.com</a>
+<!-- <a href="www.rkdgus06.com">🔗rkdgus06.com</a> -->
 
 
 - 🔭 I’m currently working on [DiSRHiT](https://github.com/rkdgus0810/DiSRHiT)
