@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/hyun0810d" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hyun0810d" height="30" width="40" /></a>
-<a href="https://instagram.com/rkd_gus06" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkd_gus06" height="30" width="40" /></a>
+<a href="https://instagram.com/binary_hive" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkd_gus06" height="30" width="40" /></a>
 <a href="https://discord.gg/hyun0810d" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hyun0810d" height="30" width="40" /></a>
 </p><br>
 
