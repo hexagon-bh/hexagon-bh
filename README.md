@@ -1,13 +1,14 @@
 <h1 align="left">Welome 👋, BINARY HIVE</h1>
 <h3 align="left">Writing Code, One Hex at a Time.</h3>
+<img src="
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkdgus0810&label=Profile%20views&color=0e75b6&style=flat" alt="rkdgus0810" /> </p>
 <!-- <a href="www.rkdgus06.com">🔗rkdgus06.com</a> -->
 
 
-- 🔭 I’m currently working on [DiSRHiT](https://github.com/rkdgus0810/DiSRHiT)
+- 🔭 I’m currently working on [VR_Radio-controller-car]([https://github.com/rkdgus0810/DiSRHiT](https://github.com/rkdgus0810/VR_Radio-controller-car))
 
-- 🌱 I’m currently learning **Web Dev.(Js,Node.js)**
+- 🌱 I’m currently learning **Web Dev.(Js,Node.js) & Algorithm sutdy**
 
 - 👯 I collaborated with Geekble. [Glaisser](https://github.com/rkdgus0810/2023_Geekble_Project-Glaisser)</p>
 
