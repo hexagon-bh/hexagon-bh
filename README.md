@@ -1,6 +1,6 @@
 <h1 align="left">Welome 👋, BINARY HIVE</h1>
 <h3 align="left">Writing Code, One Hex at a Time.</h3>
-<img src="binary_hive.jpg" style="width: 45rem">
+<img src="binary_hive.jpg" style="width: 35rem">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkdgus0810&label=Profile%20views&color=0e75b6&style=flat" alt="rkdgus0810" /> </p>
 <!-- <a href="www.rkdgus06.com">🔗rkdgus06.com</a> -->
