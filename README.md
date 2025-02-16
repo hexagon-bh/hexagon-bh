@@ -15,7 +15,7 @@
 <h3 align="left">Main Making-of Work🧰:</h3>
 <ul>
   <li>2023 Geekble Project</li>
-  <li>LG-CNS AI Genius Academy: AI-Pads🥇</li>
+  <li>LG-CNS AI Genius Academy: SSCAS🥇</li>
   <li>KCF-2023: Phami AI-Speech recognition service</li>
   <li>2023 Mist Campus Competition: DiSRHiT(AI-Hand)🥇</li>
 </ul>
