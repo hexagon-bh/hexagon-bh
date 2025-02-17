@@ -1,5 +1,9 @@
-<h1 align="center">Welcome 👋, BINARY HIVE</h1>
-<h3 align="center">Connecting the Codes, Building the Future</h3>
+# Welcome 👋, BINARY HIVE
+
+<p align="center">
+  <strong>Connecting the Codes, Building the Future</strong>
+</p>
+
 <p align="center">
   <img src="logo.PNG" alt="BINARY HIVE Logo" style="width: 35rem">
 </p>
@@ -8,12 +12,18 @@
   <img src="https://komarev.com/ghpvc/?username=rkdgus0810&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 🚀 Current Projects
+---
+
+### 🚀 Current Projects:
 - 🔭 I’m currently working on [Blitz: Vision Craft](https://github.com/rkdgus0810/Blitz-Vison_Craft)
 - 🌱 I’m currently learning **Web Development (JS, Node.js)** & **Algorithm Study**
 
-### 🤝 Collaborations
+---
+
+### 🤝 Collaborations:
 - 👯 I collaborated with Geekble on [Glaisser](https://github.com/rkdgus0810/2023_Geekble_Project-Glaisser)
+
+---
 
 ### 🛠️ Main Work Contributions:
 - **2023 Geekble Project**
@@ -71,6 +81,12 @@
 ---
 
 <p align="center">
-  <em>Let's keep building, and connecting the codes together!</em> ✨
+  <em>Let's keep building, and connecting the codes together! ✨</em>
 </p>
 
+---
+
+### 🔧 Additional Information:
+- 🌐 Feel free to check out my **[portfolio website](https://yourportfolio.com)** (coming soon!)
+- 🎓 I have a background in **Software Engineering** with a focus on **AI & Web Development**.
+- 📝 You can read more about my work and contributions on my **[blog](https://yourblog.com)**.
