@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Binary%20Hive🐝&fontSize=90)
 
 <p align="center">
-  <strong>Connecting the Codes, Building the Future</strong>
+  <img src="logo.PNG" alt="BINARY HIVE Logo" style="width: 35rem">
 </p>
 
 <p align="center">
-  <img src="logo.PNG" alt="BINARY HIVE Logo" style="width: 35rem">
+  <strong>Connecting the Codes, Building the Future</strong>
 </p>
 
 <p align="center">
