@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Connecting the Codes, Building the Future</strong>
+  <strong>"Connecting the Codes, Building the Future"</strong>
 </p>
 
 <p align="center">
