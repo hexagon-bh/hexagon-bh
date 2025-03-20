@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Binary%20Hive🐝&fontSize=90)
 
-# Welcome 👋, BINARY HIVE
-
 <p align="center">
   <strong>Connecting the Codes, Building the Future</strong>
 </p>
