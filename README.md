@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Binary%20Hive🐝&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Binary%20Hive🐝&fontSize=90)
 
 <p align="center">
   <strong>Connecting the Codes, Building the Future</strong>
