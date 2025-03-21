@@ -82,7 +82,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexagon-bh&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hexagon-bh&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexagon-bh&" alt="GitHub Streak" />
 </div>
 
