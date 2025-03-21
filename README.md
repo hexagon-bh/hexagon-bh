@@ -12,7 +12,7 @@
 
 ### Current Focus:
 - 🔭 Actively developing: [Gizmo: A Raising College student Game](https://github.com/hexagon-bh/Gizmo)
-- 🌱 Currently learning: **Web Development (JS, Node.js)** & **Algorithm Study**
+- 🌱 Currently learning: **Web Development (JS, Node.js)** & **OOP Study**
 
 ---
 
