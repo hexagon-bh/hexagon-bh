@@ -11,7 +11,7 @@
 ## 🚀 Projects & Learning
 
 ### Current Focus:
-- 🔭 Actively developing: [Blitz: Vision Craft](https://github.com/rkdgus0810/Blitz-Vison_Craft)
+- 🔭 Actively developing: [Gizmo: A Raising College student Game](https://github.com/hexagon-bh/Gizmo)
 - 🌱 Currently learning: **Web Development (JS, Node.js)** & **Algorithm Study**
 
 ---
