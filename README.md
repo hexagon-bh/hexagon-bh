@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>Binary Hive🐝</strong></h1>
-  <img src="logo.PNG" alt="BINARY HIVE Logo" width="600">
+  <img src="logo.PNG" alt="BINARY HIVE Logo" width="300">
   <p><em>"Connecting the Codes, Building the Future"</em></p>
   <img src="https://komarev.com/ghpvc/?username=rkdgus0810&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
