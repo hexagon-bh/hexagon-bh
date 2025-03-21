@@ -1,12 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N0BBFXXK0Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-N0BBFXXK0Y');
-</script>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Binary%20Hive🐝&fontSize=90)
 
